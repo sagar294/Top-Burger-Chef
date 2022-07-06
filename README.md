@@ -17,6 +17,4 @@
   * Rate integrated
 
 
-<p align="center">
-  <img src="TopBurger SellMyApp.pdf">
-</p>
+- [DOCUMENTATION](https://github.com/spatel210/Top-Burger-Chef/TopBurger SellMyApp.pdf)
