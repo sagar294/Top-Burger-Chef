@@ -17,4 +17,4 @@
   * Rate integrated
 
 
-- [DOCUMENTATION](https://github.com/spatel210/Top-Burger-Chef/TopBurger SellMyApp.pdf)
+- [DOCUMENTATION](https://github.com/spatel210/Top-Burger-Chef/TopBurger.pdf)
